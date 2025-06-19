@@ -32,7 +32,7 @@ Você vai trabalhar com:
 - 🔗 Links clicáveis com `target="_blank"` e `rel="noopener noreferrer"` para segurança e acessibilidade.
 - 📷 Imagens com `alt` descritivo.
 - 🧭 Navegação semântica.
-- 🧠 Campo de busca que destaca termos no conteúdo da página com `<mark>` (usando JavaScript).
+- 🧠 Campo de busca que destaca termos no conteúdo da página com `<mark>`.
 - 📱 Layout responsivo simples.
 
 
